@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kyeonghun Kim 👋</h1>
+<h1 align="center">Hi there, I'm Kyeonghun Kim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 <p align="center">
   <strong>Hyperspectral AI Medical Imaging Specialist from South Korea 🇰🇷</strong><br/>
@@ -33,6 +33,30 @@ I'm a passionate researcher and engineer specializing in **Hyperspectral Imaging
 - 🧠 **Research Interests**: Deep Learning, Computer Vision, Medical Image Analysis, Generative Models
 - 🌱 **Learning**: Advanced diffusion models, vision-language models, and large language models
 - 💡 **Innovation**: Combining spectral analysis with deep learning for breakthrough medical applications
+
+---
+
+## 🌟 Featured Projects
+
+### [Seoul National University - IMSI Laboratory Website](https://snulabs.github.io/imsi/)
+**Full-Stack Development | Solo Project**
+
+Designed and developed a comprehensive laboratory website from scratch for SNU's Intelligent Medical Systems & Imaging (IMSI) Lab. This project showcases advanced web development skills and attention to detail in academic web design.
+
+**Key Features:**
+- Modern, responsive design optimized for all devices
+- Clean architecture with intuitive navigation
+- Research showcase and publication management
+- Team member profiles and project highlights
+- Custom UI/UX tailored for academic presentation
+
+**Technologies Used:**
+- HTML5, CSS3, JavaScript
+- Responsive Web Design
+- Git version control
+- GitHub Pages deployment
+
+🔗 **Live Site**: [https://snulabs.github.io/imsi/](https://snulabs.github.io/imsi/)
 
 ---
 
@@ -115,10 +139,6 @@ I'm a passionate researcher and engineer specializing in **Hyperspectral Imaging
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khkim1729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khkim1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khkim1729&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </p>
 
 ---
