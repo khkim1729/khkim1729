@@ -59,8 +59,9 @@ Designed and developed a comprehensive laboratory website from scratch for SNU's
 - Git version control
 - GitHub Pages deployment
 
-🔗 **Live Site (v2 - Current)**: [http://capp.snu.ac.kr/imsi/](http://capp.snu.ac.kr/imsi/)
-🔗 **Live Site (v1)**: [https://snulabs.github.io/imsi/](https://snulabs.github.io/imsi/)
+<sub>🔗 v1: [https://snulabs.github.io/imsi/](https://snulabs.github.io/imsi/)</sub>
+
+🔗 **Live Site**: [http://capp.snu.ac.kr/imsi/](http://capp.snu.ac.kr/imsi/)
 
 ---
 
