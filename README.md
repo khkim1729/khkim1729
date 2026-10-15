@@ -18,7 +18,7 @@
   <a href="https://leetcode.com/u/khkim1729/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://drive.google.com/drive/folders/1XlGX7gFijJddXPsRv5JbsEzODHe9Vmoj?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1U5ENrltXZDs5EobbmH_y6YenByKtdjZx?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://docs.google.com/presentation/d/1Ns0ebR9yU-mzKa_Ua9e0_YRzSjMfQzVUia90qfQuW5E/edit?usp=sharing" target="_blank">
@@ -41,29 +41,36 @@ I'm a passionate researcher and engineer specializing in **Hyperspectral Imaging
 
 ## 🌟 Featured Projects
 
-### [Seoul National University - IMSI Laboratory Website](http://capp.snu.ac.kr/imsi/)
+### [Seoul National University - IMSI Research Laboratory Website](http://capp.snu.ac.kr/imsi/) ([Backup](https://imsilab.github.io/imsi/))
+
 **Full-Stack Development | Solo Project**
 
 Designed and developed a comprehensive laboratory website from scratch for SNU's Imaging-driven Medical SuperIntelligence (IMSI) Lab. This project showcases advanced web development skills and attention to detail in academic web design.
 
 **Key Features:**
-- Modern, responsive design optimized for all devices
-- Clean architecture with intuitive navigation
-- Research showcase and publication management
-- Team member profiles and project highlights
-- Custom UI/UX tailored for academic presentation
+
+* Modern, responsive design optimized for all devices
+* Clean architecture with intuitive navigation
+* Research showcase and publication management
+* Team member profiles and project highlights
+* Custom UI/UX tailored for academic presentation
 
 **Technologies Used:**
-- HTML5, CSS3, JavaScript
-- Responsive Web Design
-- Git version control
-- GitHub Pages deployment
 
-<sub>🔗 v1: [https://snulabs.github.io/imsi/](https://snulabs.github.io/imsi/)</sub>
+* HTML5, CSS3, JavaScript
+* Responsive Web Design
+* Git version control
+* GitHub Pages deployment
 
-🔗 **Live Site**: [http://capp.snu.ac.kr/imsi/](http://capp.snu.ac.kr/imsi/)
+<sub>🔗 v1: https://snulabs.github.io/imsi/</sub>
+
+🔗 **Official Site**: http://capp.snu.ac.kr/imsi/
+🔗 **Backup Site**: https://imsilab.github.io/imsi/
+
+<sub>Note: The backup site mirrors the official website and serves as an alternative when the primary server is unavailable.</sub>
 
 ---
+
 
 ## 🛠️ Technical Skills
 
@@ -173,7 +180,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 📧 **Email**: [khkim1729@gmail.com](mailto:khkim1729@gmail.com)
 - 💼 **LinkedIn**: [Kyeonghun Kim](https://www.linkedin.com/in/kyeonghun-kim-50705525b/)
 - 📝 **Blog**: [Naver Blog](https://blog.naver.com/kgh9080)
-- 📄 **Resume**: [Google Drive](https://drive.google.com/drive/folders/1XlGX7gFijJddXPsRv5JbsEzODHe9Vmoj?usp=sharing)
+- 📄 **Resume**: [Google Drive](https://drive.google.com/drive/folders/1U5ENrltXZDs5EobbmH_y6YenByKtdjZx?usp=sharing)
 - 🗂️ **Portfolio(KR)**: [Google Slides](https://docs.google.com/presentation/d/1Ns0ebR9yU-mzKa_Ua9e0_YRzSjMfQzVUia90qfQuW5E/edit?usp=sharing)
 - 💻 **LeetCode**: [khkim1729](https://leetcode.com/u/khkim1729/)
 
